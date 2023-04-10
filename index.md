@@ -1,3 +1,2 @@
 Hi,blog!
-i'm coming!
-欢迎光临！
+i'm coming！
